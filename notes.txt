@@ -40,3 +40,4 @@ mié 19 nov 2025 14:36:04 -03
 
 
 
+[2026-01-26 08:59:42] [camels:main] [a3b6b64] agregue datos sobre la densidad local en cada paso
